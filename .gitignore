@@ -1,7 +1,7 @@
 *.pyc
 # nltk_data文件太大
-src/data/nltk_data
-src/data/FashionMNIST2065
+src/data/nltk_data3784
+src/data/FashionMNIST2065/
 
 .idea/
 
