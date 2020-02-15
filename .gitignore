@@ -1,8 +1,6 @@
-# pyc file
 *.pyc
 
-# Log file
-*.log
+src/data/
 
 
 
